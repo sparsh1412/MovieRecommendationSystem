@@ -1,4 +1,4 @@
-# MovieRecommendationSystem
+# Movie Recommendation System
 
 This is a Movie Recommendation System
 
